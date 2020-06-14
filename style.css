@@ -1,0 +1,57 @@
+
+ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+}
+
+.nav-left {
+list-style-type: none;
+margin: 0;
+padding: 0;
+float: left;
+
+}
+.nav-right {
+list-style-type: none;
+margin: 0;
+padding: 0;
+float: right;
+}
+
+a {
+	display: block;
+	padding: 8px;
+	
+}
+img {
+	margin-left: 80px;
+}
+input {
+	clear: both;
+}
+
+#search-box {
+	text-align: center;
+}
+
+.footer-left {
+	float: left;
+}
+
+.footer-right {
+	float: right;
+}
+
+
+
+
+
+
+
+
+
+
+
+
